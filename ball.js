@@ -1,5 +1,6 @@
 const INITIAL_VELOCITY = 0.025
-/* making it a constant variable*/
+/* making it a constant variable
+please work*/
 const VELOCITY_INCREASE = 0.00001
 /*increase the balls speed */
 

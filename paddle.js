@@ -1,5 +1,6 @@
 const SPEED = 0.02
-/*computers maximum speed for the ball */
+/*computers maximum speed for the ball 
+why isnt this working*/
 
 export default class Paddle {
   constructor(paddleElem) {
