@@ -22,7 +22,7 @@ function update(time) {
     )
 
     document.documentElement.style.setProperty("--hue", hue + delta * 0.01)
-    /*background color changes hue colors */
+    /*background color changes hue colors over time */
 
     if (isLose()) handleLose()
   }
